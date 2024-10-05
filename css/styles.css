@@ -1,0 +1,7 @@
+#login_section{
+  background-color: white;
+}
+#login_button, #register_button, #admin_login_button{
+  margin-left: 12px;
+  margin-right: 12px;
+}
